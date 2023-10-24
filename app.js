@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 //----------------------------------HELLO WORLD----------------------------------
 
 // const heading=React.createElement("h1", {}, "Hello World"); // {} takes the attribute of h1 --- {id: "heading", className: "heading"}
